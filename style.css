@@ -100,7 +100,7 @@ section {
 .home-content,
 .home-sci {
     position: relative;
-    z-index: 2;
+    z-index: 1;
 }
 
 
@@ -985,4 +985,5 @@ section:nth-child(odd) .animate.scroll,
     }
 
 }
+
 
