@@ -438,7 +438,7 @@ span {
     height: 100%;
     background: var(--second-bg-color);
     z-index: -1;
-    transition: .5s;
+    transition: .9s;
 }
 
 .education-content .content:hover::before {
@@ -647,7 +647,7 @@ span {
     background: var(--second-bg-color);
     border-radius: .6rem;
     z-index: -1;
-    transition: .5s;
+    transition: .9s;
 }
 
 .contact form .input-box .input-field input:focus~.focus,
@@ -981,6 +981,7 @@ section:nth-child(odd) .animate.scroll,
     }
 
 }
+
 
 
 
