@@ -87,7 +87,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('../images/imagee.jpg') no-repeat ;
+    background: url('images/imagee.jpg') no-repeat ;
     background-size: cover;
     background-position: center;
 }
@@ -983,4 +983,5 @@ section:nth-child(odd) .animate.scroll,
     100% {
         width: 0;
     }
+
 }
