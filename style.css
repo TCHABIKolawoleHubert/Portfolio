@@ -97,11 +97,7 @@ section {
     z-index: 99;
 }
 
-.home-content,
-.home-sci {
-    position: relative;
-    z-index: 1;
-}
+
 
 
 .home-content h1 {
@@ -985,5 +981,6 @@ section:nth-child(odd) .animate.scroll,
     }
 
 }
+
 
 
